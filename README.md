@@ -28,7 +28,7 @@
 
 ### "Languages that I use the most"
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CODDuarte)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CODDuarte)](https://github.com/CODDuarte/github-readme-stats)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CODDuarte&show_icons=true&theme=radical)
