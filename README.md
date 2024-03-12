@@ -13,8 +13,10 @@
 
 
 ### Contacts
-[![Google](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white/)]("andreduarte98@gmail.com")
-[![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/andr%C3%A9-alves-duarte-2707383b/)
+<div
+ <a href = "mailto:andreduarte98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/andr%C3%A9-alves-duarte-2707383b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  ></div>
 
 ### "Languages that I´m studying"
 <div stle="display: inline_block"><br/>
@@ -28,10 +30,10 @@
 
 ### "Languages that I use the most"
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CODDuarte)](https://github.com/CODDuarte/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CODDuarte)](https://github.com/CODDuarte/github-readme-stats) ![Duarte's GitHub stats](https://github-readme-stats.vercel.app/api?username=CODDuarte&show_icons=true&theme=dark)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CODDuarte&show_icons=true&theme=radical)
+
 
 
 
