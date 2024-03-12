@@ -13,7 +13,7 @@
 
 
 ### Contacts
-[![Google](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white/)](andreduarte98@gmail.com)
+[![Google](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white/)]("andreduarte98@gmail.com")
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/andr%C3%A9-alves-duarte-2707383b/)
 
 ### "Languages that I´m studying"
