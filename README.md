@@ -16,7 +16,7 @@
 [![Google](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white/)](andreduarte98@gmail.com)
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/andr%C3%A9-alves-duarte-2707383b/)
 
-### "Langueges that I´m studing"
+### "Langueges that I´m studying"
 <div stle="dsplay: inline_block"><br/>
   <img align= "center" alt="htmls" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align= "center" alt="htmls" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
